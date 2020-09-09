@@ -1,2 +1,2 @@
-# React-Grid-Layout_Blog
-It's a implementation of Drag &amp; Drop using React_Grid_Layout.
+# ReactJs GridLayout Gallery 
+This repo connects with backend_starlette to provide the UI interface for managing position, titles, thumbnails, and slug_type information  
